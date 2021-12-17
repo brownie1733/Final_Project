@@ -15,7 +15,7 @@ import pandas as pd
 
 stylesheet = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
-IPA = pd.read_csv("IPA.csv", index_col=0)
+IPA = pd.read_csv("IPA.csv", index_col=0, encoding='latin-1')
 
 IPA.columns = IPA.columns.str.replace(' ', '_')
 IPAC = IPA.columns.unique()
