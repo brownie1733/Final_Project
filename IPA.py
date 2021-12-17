@@ -83,7 +83,7 @@ app.layout = html.Div([
                 
     ])
 
-    
+server = app.server    
 
 @app.callback(
     Output(component_id="IPA_div", component_property="children"),
