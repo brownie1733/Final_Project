@@ -1,1 +1,1 @@
-web: gunicorn IPA:server
+web: gunicorn app:server
