@@ -12,3 +12,4 @@ References Used:
 1) https://www.beeradvocate.com/beer/top-rated/
 2) https://dash.plotly.com/layout
 3) https://dash.plotly.com/basic-callbacks
+4) https://plotly.com/python/pie-charts/
