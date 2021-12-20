@@ -9,6 +9,6 @@ All of this information was taken from www.beeradvocate.com and you can click on
 The link to the dashboard is: https://final-projectma.herokuapp.com/
 
 References Used:
-https://www.beeradvocate.com/beer/top-rated/
-https://dash.plotly.com/layout
-https://dash.plotly.com/basic-callbacks
+1) https://www.beeradvocate.com/beer/top-rated/
+2) https://dash.plotly.com/layout
+3) https://dash.plotly.com/basic-callbacks
